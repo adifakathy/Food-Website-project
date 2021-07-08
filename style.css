@@ -109,23 +109,19 @@ h2 {
 }
 
 .ex-area {
-  width: 33.3%;
+  width: 33.33%;
   box-shadow: 10px 10px 30px gray;
   border-radius: 20px;
-  margin: 2%;
-  padding-right: 20px;
+  margin: 20px;
+  padding: 25px;
   border-left: tomato solid;
   border-width: 7px;
 }
 .ex-area img {
-  width: 300px;
+  width: 100%;
 }
 .my-recipies {
   display: flex;
-}
-.fimg {
-  padding-left: 40px;
-  padding-top: 20px;
 }
 .para {
   color: gray;
