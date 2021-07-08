@@ -131,6 +131,34 @@ h2 {
   color: gray;
   font-size: 20px;
 }
+
+.follow{
+  display: flex;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 20px;
+  margin: 7%;
+
+}
+.social-1 h2{
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  
+  
+  
+}
+.social-1 p{
+  font-size: 30px;
+  color: gray;
+  margin: 0;
+  padding-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+
 footer {
   background-color: rgb(4, 8, 46);
   text-align: center;
@@ -141,7 +169,7 @@ footer {
 .foot {
   color: white;
   margin: 0;
-  padding-top: 20px;
+  padding-top: 40px;
   padding-bottom: 30px;
 }
 .fp {
