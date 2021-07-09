@@ -127,6 +127,7 @@ h2 {
 }
 .ex-area img {
   width: 100%;
+  border-radius: 10px;
 }
 .my-recipies {
   display: flex;
